@@ -1,0 +1,2 @@
+# NextJSTemplateProps
+Created with CodeSandbox
